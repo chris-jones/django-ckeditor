@@ -1,6 +1,10 @@
 Django CKEditor
 ===============
 
+**NOTICE: This fork of django-ckeditor 5 has modifications to the plugins used by CKEDitor. 
+Check the commits to understand the changes that have been made**
+
+
 **NOTICE: django-ckeditor 5 has backwards incompatible code moves against 4.5.1.**
 
 
